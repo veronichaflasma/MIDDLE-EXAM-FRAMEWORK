@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 10042094,
+      "title": "Krisbow Kipas Angin Lantai 61 Cm",
+      "description": "Kipas Angin Lantai Krisbow memiliki konstruksi yang lebih kokoh dibandingkan kipas angin lantai konvensional.",
+      "category": [
+        "lantai"
+      ],
+      "price": 2249000,
+      "img": "/assets/img/products/kipas1.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 2,
+      "sku": 10286395,
+      "title": "Memoo 15 Cm Kipas Angin Jepit Portabel - Pink",
+      "description": "idak seperti kipas pada umumnya, kipas dari Memoo memiliki desain portabel agar lebih mudah dipindah dan digunakan.",
+      "category": [
+        "portable"
+      ],
+      "price": 149900,
+      "img": "/assets/img/products/kipas2.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 3,
+      "sku": 10118129,
+      "title": "Kris Kipas Angin Drum Industrial 91 Cm",
+      "description": "Kipas angin industrial Kris dapat Anda fungsikan untuk mengembalikan kesejukan udara di dalam ruangan sekaligus meningkatkan sirkulasi udara agar tidak terasa pengap lagi",
+      "category": [
+        "industrial"
+      ],
+      "price": 8000000,
+      "img": "/assets/img/products/kipas3.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 4,
+      "sku": 10168879,
+      "title": "Kris Kipas Angin Lantai Df-Ef16912",
+      "description": ". Kipas angin ini menggunakan daya 60 watt yang hemat energi dan mampu memberikan hembusan angin yang lembut sehingga membawa kesejukan untuk ruangan Anda di rumah. ",
+      "category": [
+        "lantai"
+      ],
+      "price": 1300000,
+      "img": "/assets/img/products/kipas4.png",
+      "stock": "5",
+      "isFreeShipping": false
+    },
+    {
+      "id": 5,
+      "sku": 10387774,
+      "title": "Krisbow 40 Cm Kipas Angin Lantai Klasik",
+      "description": "Dilengkapi dengan 3 mode kecepatan kipas untuk menghasilkan aliran udara yang sesuai dengan kebutuhan Anda.",
+      "category": [
+        "lantai"
+      ],
+      "price": 1599999,
+      "img": "/assets/img/products/kipas5.png",
+      "stock": "5",
+      "isFreeShipping": false
+    },
+    {
+      "id": 6,
+      "sku": 10301616,
+      "title": "Westinghouse Kipas Angin Plafon 35w 132 Cm",
+      "description": "Buat aktivitas di rumah Anda tetap nyaman dan sejuk dengan kehadiran kipas angin plafon dari Westinghouse.",
+      "category": [
+        "gantung"
+      ],
+      "price": 4500000,
+      "img": "/assets/img/products/kipas6.png",
+      "stock": "5",
+      "isFreeShipping": false
+    },
+    {
+      "id": 7,
+      "sku": 10426386,
+      "title": "Kels 15.2 Cm Summer Kipas Angin Usb Rechargeable - Putih",
+      "description": "Kipas angin rechargeable ini memiliki ukuran yang tidak terlalu besar sehingga dapat dengan mudah diletakkan di meja kerja Anda.",
+      "category": [
+        "portable"
+      ],
+      "price": 300000,
+      "img": "/assets/img/products/kipas7.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 8,
+      "sku": 10426386,
+      "title": "Ataru Kipas Angin Portable Rechargeable - Biru",
+      "description": "Dengan bantuan dari kipas angin portable dari Ataru, Anda tetap dapat beraktivitas dengan nyaman dan bebas dari rasa gerah",
+      "category": [
+        "portable"
+      ],
+      "price": 199999,
+      "img": "/assets/img/products/kipas8.png",
+      "stock": "5",
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 10146877,
+      "title": "Krisbow Kipas Angin Dinding 130w 45cm",
+      "description": "Untuk Anda yang memiliki ruang cukup terbatas, penggunaan kipas angin dinding dapat menghemat ruangan karena tidak perlu diletakkan pada lantai",
+      "category": [
+        "dinding"
+      ],
+      "price": 1398000,
+      "img": "./assets/img/products/kipas9.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 10,
+      "sku": 314345,
+      "title": "Krisbow Kipas Angin Industrial 40 Cm",
+      "description": "Dirancang khusus untuk kebutuhan Anda, Krisbow Kipas Angin Meja Industrial Grade memiliki desain yang ergonomis dan dapat ditempatkan pada lantai atau di atas meja",
+      "category": [
+        "industrial"
+      ],
+      "price": 375000,
+      "img": "./assets/img/products/kipas10.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 11,
+      "sku": 10183381,
+      "title": "Kris Kipas Angin Lantai 2 In 1 15750 - Hitam",
+      "description": "Hadirkan kipas angin dari Kris di hunian Anda untuk suhu udara ruangan yang selalu sejuk. Kipas angin ini memiliki keunggulan unik, dimana tingginya dapat diatur hingga sangat pendek.",
+      "category": [
+        "lantai"
+      ],
+      "price": 1398000,
+      "img": "./assets/img/products/kipas11.png",
+      "stock": "5",
+      "isFreeShipping": true
+    },
+    {
+      "id": 12,
+      "sku": 257811,
+      "title": "Kris Kipas Angin Lantai Ftc3-M",
+      "description": "Dengan bentuk yang ramping dan elegan, kipas angin ini dapat berputar 30 derajat untuk menyebarkan angin secara merata",
+      "category": [
+        "lantai"
+      ],
+      "price": 500000,
+      "img": "./assets/img/products/kipas12.png",
+      "stock": "5",
+      "isFreeShipping": true
+    }
+  ]
+}

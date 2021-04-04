@@ -1,0 +1,39 @@
+{
+  "keranjang": [
+    {
+      "id": 2,
+      "title": "Memoo 15 Cm Kipas Angin Jepit Portabel - Pink",
+      "category": [
+        "portable"
+      ],
+      "description": "idak seperti kipas pada umumnya, kipas dari Memoo memiliki desain portabel agar lebih mudah dipindah dan digunakan.",
+      "price": 149900,
+      "img": "/assets/img/products/kipas2.png",
+      "total_qty": 749500,
+      "count": 5
+    },
+    {
+      "id": 4,
+      "title": "Kris Kipas Angin Lantai Df-Ef16912",
+      "category": [
+        "lantai"
+      ],
+      "description": ". Kipas angin ini menggunakan daya 60 watt yang hemat energi dan mampu memberikan hembusan angin yang lembut sehingga membawa kesejukan untuk ruangan Anda di rumah. ",
+      "price": 1300000,
+      "img": "/assets/img/products/kipas4.png",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "title": "Westinghouse Kipas Angin Plafon 35w 132 Cm",
+      "category": [
+        "gantung"
+      ],
+      "description": "Buat aktivitas di rumah Anda tetap nyaman dan sejuk dengan kehadiran kipas angin plafon dari Westinghouse.",
+      "price": 4500000,
+      "img": "/assets/img/products/kipas6.png",
+      "total_qty": 13500000,
+      "count": 3
+    }
+  ]
+}
